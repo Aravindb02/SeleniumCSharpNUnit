@@ -1,0 +1,12 @@
+{
+  "uuid": "bdd11ee3-633d-4111-b22f-b6e902c55f78",
+  "name": "nunittest.nuit.UnitTestCalcSetupTearDown.SubstrationTest",
+  "children": [
+    "e57f6ef3-8230-4963-84a3-8933ee23df07"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726484962990,
+  "stop": 1726484962994
+}

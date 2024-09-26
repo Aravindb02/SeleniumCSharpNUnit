@@ -1,0 +1,12 @@
+{
+  "uuid": "caf41eba-9235-4a66-ae69-3ad7f6788266",
+  "name": "nunittest.nuit.Assertions.Test",
+  "children": [
+    "2ff9dd5a-94b8-4384-a382-b69ced56e07b"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726485109503,
+  "stop": 1726485109615
+}

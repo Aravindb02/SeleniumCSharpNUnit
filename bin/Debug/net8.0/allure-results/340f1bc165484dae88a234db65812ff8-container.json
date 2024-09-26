@@ -1,0 +1,13 @@
+{
+  "uuid": "e4ec51a9-b148-42f0-9397-8f0ff58084b5",
+  "name": "nunittest.nuit.UnitTestCalcSetupTearDown",
+  "children": [
+    "40575a7c-abe6-4ac6-889e-409689132db5",
+    "ddc68802-162d-4da5-9e57-6c8142edf4bb"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726646492682,
+  "stop": 1726646492697
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "40575a7c-abe6-4ac6-889e-409689132db5",
+  "historyId": "b19e9f904a6c7400baa89dee52dd1938",
+  "testCaseId": "95ee3dc24a5959f98a5bb33bcb174bb2",
+  "fullName": "nunittest:nunittest.nuit.UnitTestCalcSetupTearDown.AddTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddTest"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestCalcSetupTearDown"
+    }
+  ],
+  "links": [],
+  "name": "AddTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "6b32f181-6fc0-4fbd-b0e8-e67f9d9ee1af-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726646492683,
+  "stop": 1726646492684
+}

@@ -1,0 +1,59 @@
+{
+  "uuid": "71ac31bf-7ed9-4d05-b773-f57f8b7de4e4",
+  "historyId": "6ed90985e04095fba1bdbcd730f25beb",
+  "testCaseId": "6da9dab7783c281d9923bfd023edc8f9",
+  "fullName": "nunittest:nunittest.nuit.Category.AddToCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddToCart"
+    },
+    {
+      "name": "testClass",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    }
+  ],
+  "links": [],
+  "name": "AddToCart",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f700efd1-5d17-4086-857c-439645b2d478-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726484962960,
+  "stop": 1726484962964
+}

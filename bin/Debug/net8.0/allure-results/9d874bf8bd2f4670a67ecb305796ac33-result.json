@@ -1,0 +1,45 @@
+{
+  "uuid": "9ffab969-ac16-449f-8eca-10e0fbdccf18",
+  "historyId": "0737ae50dff32b09417547ae41a229c9",
+  "testCaseId": "0afee938897127cf30c878b53c62238d",
+  "fullName": "nunittest:nunittest.nuit.Calculatorunittest.SubstrationTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "SubstrationTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Calculatorunittest"
+    }
+  ],
+  "links": [],
+  "name": "SubstrationTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726646492656,
+  "stop": 1726646492656
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "89db3926-71bd-41f0-8001-0f6897516a06",
+  "historyId": "2069a987d0a17ff00a51a879502ab704",
+  "testCaseId": "fd786038d636bc17f5bea119f2ad4a48",
+  "fullName": "nunittest:nunittest.nuit.Calculatorunittest.AddTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Calculatorunittest"
+    }
+  ],
+  "links": [],
+  "name": "AddTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726646492615,
+  "stop": 1726646492615
+}

@@ -1,0 +1,52 @@
+{
+  "uuid": "e98312dd-6f1c-47d4-ac70-d422ad15c487",
+  "historyId": "5e6e62028df65d4701e7dc039f405cdc",
+  "testCaseId": "9b2ab0b70bb36c8fff0b74f7592abfbc",
+  "fullName": "nunittest:nunittest.nuit.Assertions.Test()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "Test",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 6 but was 5. Strings differ at index 0.\r\n  Expected: \"google\"\r\n  But was:  \"yahoo\"\r\n  -----------^\r\n",
+    "trace": "   at nunittest.nuit.Assertions.Test() in C:\\Users\\arach\\source\\repos\\nunittest\\nuit\\Assertions.cs:line 26\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726485106060,
+  "stop": 1726485106105
+}

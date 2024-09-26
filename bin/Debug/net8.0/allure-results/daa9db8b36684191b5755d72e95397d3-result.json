@@ -1,0 +1,59 @@
+{
+  "uuid": "52a23431-a847-4af5-8027-8ac7b95d6cfc",
+  "historyId": "6438e9b4a7c7d1aa142e396485c849bd",
+  "testCaseId": "17009bc2bd186c0e52a0cdf49584ee62",
+  "fullName": "nunittest:nunittest.nuit.Category.login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "testClass",
+      "value": "Category"
+    },
+    {
+      "name": "tag",
+      "value": "Login"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "4ef4c7a0-803d-42c1-9e1e-a1560e1849b8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726484962970,
+  "stop": 1726484962972
+}

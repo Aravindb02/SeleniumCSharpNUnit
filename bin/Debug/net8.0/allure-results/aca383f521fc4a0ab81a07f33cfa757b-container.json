@@ -1,0 +1,12 @@
+{
+  "uuid": "11b0a8e4-edcc-4b37-9632-7a71c28c7a6f",
+  "name": "nunittest.nuit.Category.AddToCart",
+  "children": [
+    "111b62d2-9c06-40c0-91e1-e6dd27a631c6"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726646492663,
+  "stop": 1726646492670
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "ddc68802-162d-4da5-9e57-6c8142edf4bb",
+  "historyId": "0a66c9c88452ac1a35f21b47d7e151e5",
+  "testCaseId": "0ef164edfaee8be155c48f055d4c8d3a",
+  "fullName": "nunittest:nunittest.nuit.UnitTestCalcSetupTearDown.SubstrationTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "SubstrationTest"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestCalcSetupTearDown"
+    }
+  ],
+  "links": [],
+  "name": "SubstrationTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "bc9ebbc3-b26e-457b-801c-48d20a3f915a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726646492689,
+  "stop": 1726646492691
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "7e668ec5-aa18-479d-8b35-47600dd723cc",
+  "name": "nunittest.nuit.Calculatorunittest",
+  "children": [
+    "89db3926-71bd-41f0-8001-0f6897516a06",
+    "902562de-239a-4b1e-b2b9-1ca6e5870737",
+    "48f8e149-435a-4f91-8682-2afe4c36419e",
+    "9ffab969-ac16-449f-8eca-10e0fbdccf18"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726646492614,
+  "stop": 1726646492661
+}

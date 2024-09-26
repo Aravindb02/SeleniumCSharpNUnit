@@ -1,0 +1,45 @@
+{
+  "uuid": "902562de-239a-4b1e-b2b9-1ca6e5870737",
+  "historyId": "e89a54492e4551f0b35efe9c146bd8dd",
+  "testCaseId": "ae53d4cf88dbc05521186cfea63c8faf",
+  "fullName": "nunittest:nunittest.nuit.Calculatorunittest.DivideTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "DivideTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Calculatorunittest"
+    }
+  ],
+  "links": [],
+  "name": "DivideTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726646492624,
+  "stop": 1726646492627
+}

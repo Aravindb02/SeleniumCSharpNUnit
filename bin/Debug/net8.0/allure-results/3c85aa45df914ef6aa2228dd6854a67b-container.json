@@ -1,0 +1,13 @@
+{
+  "uuid": "a2023aa2-7dc3-4c08-8de8-a078d77e3cb1",
+  "name": "nunittest.nuit.Category",
+  "children": [
+    "111b62d2-9c06-40c0-91e1-e6dd27a631c6",
+    "40b5bd05-8c1e-44df-a4ab-c307bbd8b048"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726646492663,
+  "stop": 1726646492677
+}

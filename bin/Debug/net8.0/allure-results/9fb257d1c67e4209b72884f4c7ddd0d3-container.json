@@ -1,0 +1,12 @@
+{
+  "uuid": "17f0f5b1-6158-4634-aec0-6bff043eb08f",
+  "name": "nunittest.nuit.Calculatorunittest.DivideTest",
+  "children": [
+    "a311c1e5-1c0e-4fd1-bc0a-6982819afc3e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726484962931,
+  "stop": 1726484962935
+}

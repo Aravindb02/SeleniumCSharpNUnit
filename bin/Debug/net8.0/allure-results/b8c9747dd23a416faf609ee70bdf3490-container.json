@@ -1,0 +1,12 @@
+{
+  "uuid": "b95b0a02-c457-4160-a712-46f3eb3d2493",
+  "name": "nunittest.nuit.Calculatorunittest.SubstrationTest",
+  "children": [
+    "9ffab969-ac16-449f-8eca-10e0fbdccf18"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726646492656,
+  "stop": 1726646492659
+}

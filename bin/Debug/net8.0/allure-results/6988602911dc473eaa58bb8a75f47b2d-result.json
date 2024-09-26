@@ -1,0 +1,45 @@
+{
+  "uuid": "48f8e149-435a-4f91-8682-2afe4c36419e",
+  "historyId": "414112d3dbce1c4ae54a97b65d7ab842",
+  "testCaseId": "2301df2224998714febb31acbc0a75c5",
+  "fullName": "nunittest:nunittest.nuit.Calculatorunittest.MultilplyTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOJHRJOPDNWBK"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "nunittest.nuit"
+    },
+    {
+      "name": "testMethod",
+      "value": "MultilplyTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Calculatorunittest"
+    }
+  ],
+  "links": [],
+  "name": "MultilplyTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726646492637,
+  "stop": 1726646492637
+}
