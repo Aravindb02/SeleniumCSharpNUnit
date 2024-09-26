@@ -62,7 +62,7 @@ namespace nunittest.nuit
             int result2 = cl.Divide(12, 3);
 
             //Assertion Nunit to campare the expected to actual result
-
+            Assert.AreEqual(8, result);
             Assert.AreEqual(2, result);
             Assert.AreEqual(2, result1);
             Assert.AreEqual(4, result2);
